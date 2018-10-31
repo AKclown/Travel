@@ -1,2 +1,0 @@
-<temoplate></temoplate>
-<script></script>
