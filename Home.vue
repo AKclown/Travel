@@ -1,1 +1,2 @@
 <temoplate></temoplate>
+<script></script>
